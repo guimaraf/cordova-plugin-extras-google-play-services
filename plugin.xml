@@ -6,7 +6,7 @@
 -->
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     id="cordova-plugin-extras-google-play-services"
-    version="1.0.8">
+    version="1.0.9">
   <engines>
     <engine name="cordova" version=">=3.0.0" />
   </engines>
@@ -31,8 +31,8 @@
     <framework src="com.google.android.gms:play-services-plus:9.0.2" />
     <framework src="com.google.android.gms:play-services-ads:9.0.2" />
 -->    
-    <framework src="com.google.android.gms:play-services-games:11.+" />
-    <framework src="com.google.android.gms:play-services-plus:11.+" />
-    <framework src="com.google.android.gms:play-services-ads:11.+" />
+    <framework src="com.google.android.gms:play-services-games:16.+" />
+    <framework src="com.google.android.gms:play-services-plus:16.+" />
+    <framework src="com.google.android.gms:play-services-ads:16.+" />
   </platform>
 </plugin>
